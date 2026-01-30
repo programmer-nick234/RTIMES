@@ -9,7 +9,7 @@
 /* Hero Section */
 .cfp-hero {
   background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-navy-light) 100%);
-  padding: 120px 20px 100px;
+  padding: 160px 20px 100px;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -71,7 +71,7 @@
 
 /* CFP Sections */
 .cfp-section {
-  padding: 80px 20px;
+  padding: 50px 20px;
 }
 
 .instructions-section {
@@ -450,7 +450,7 @@
 /* CTA Section */
 .cfp-cta {
   background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-navy-light) 100%);
-  padding: 80px 20px;
+  padding: 50px 20px;
   text-align: center;
 }
 

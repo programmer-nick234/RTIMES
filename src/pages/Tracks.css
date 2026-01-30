@@ -12,10 +12,11 @@
 /* Page Header - Hero Section */
 .page-header {
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
-  padding: 140px 20px 80px;
+  padding: 160px 20px 80px;
   text-align: center;
   position: relative;
   overflow: hidden;
+  margin-top: 0;
 }
 
 /* Animated background grid */

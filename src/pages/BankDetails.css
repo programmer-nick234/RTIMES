@@ -9,7 +9,7 @@
 /* Hero Section */
 .bank-hero {
   background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-navy-light) 100%);
-  padding: 100px 20px 80px;
+  padding: 160px 20px 60px;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -49,7 +49,7 @@
 
 /* Payment Section */
 .payment-section {
-  padding: 80px 20px;
+  padding: 50px 20px 30px;
   background: var(--bg-light);
 }
 
@@ -231,7 +231,7 @@
 
 /* Notes Section */
 .notes-section {
-  padding: 0 20px 80px;
+  padding: 0 20px 30px;
   background: var(--bg-light);
 }
 
@@ -314,7 +314,7 @@
 
 /* Contact Section */
 .bank-contact {
-  padding: 80px 20px;
+  padding: 40px 20px;
   background: var(--bg-white);
 }
 
@@ -392,7 +392,7 @@
 
 /* Brochure Section */
 .brochure-section {
-  padding: 80px 20px;
+  padding: 40px 20px;
   background: var(--bg-light);
 }
 
@@ -468,7 +468,7 @@
 
 /* CTA Section */
 .bank-cta {
-  padding: 80px 20px;
+  padding: 50px 20px;
   background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-navy-light) 100%);
   text-align: center;
 }
